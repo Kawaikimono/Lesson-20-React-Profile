@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Navbar {
+    display:flex;
+    background-color: #006D77;
+    justify-content: right;
+    text-decoration: none;
+    padding: 1vh;
+}   
+
+
+.NavbarLink{
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    float: right;
+}
+
+/* .NavbarLinkAly{
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    float: left !important;
+} */
+    
+
+
+.NavbarLink:hover {
+    background-color: #87B37A;
+    color: Black;
+  }
+
+.body{
+    background-color: #DCABDF;
+    height: 99vh;
+}
+.mainBody {
+    margin:auto;
+    width:80%;
+    background:whitesmoke;
+    height: 99vh;
+    text-align: center;
+}
+
+.bold{
+    padding-top: 3%;
+    padding-left: 1%;
+    font-weight: bolder;
+}
+
+.profilePic{
+    padding-top: 1%;
+    padding-left: 1%;
+    height: auto;
+    width: 30%;
+
+}
+
+.title{
+    text-decoration: underline
+}
+
+.flex{
+    display: flex;
+}
+
+
+/* Pale Purple: E0D3DE
+Gamboge: F1A208
+Carribean Current: 006D77
+Olivine: 87B37A
+Purpureus: A846A0
+Dim Gray: 6F686D */
