@@ -5,6 +5,7 @@ import Portfolio from "./components/pages/Portfolio"
 import Contact from "./components/pages/Contact"
 import Resume from "./components/pages/Resume"
 import Navbar from "./components/pages/Navbar"
+import Footer from './components/pages/Footer';
 
 function App() {  
   return (
@@ -14,11 +15,12 @@ function App() {
       <div className='body'>
       <Routes>
         <Route path="/" element={<About/>}/>
-        <Route path="/portfolio" element={<Portfolio/>}/>
+        <Route path="/portfolio" element={<Portfolio image=""/>}/>
         <Route path="/contact" element={<Contact/>}/>
         <Route path="/resume" element={<Resume/>}/>
       </Routes>
       </div>
+      <Footer/>
      </BrowserRouter>
    
       
