@@ -12,7 +12,7 @@ This project is to build a portfolio website with react front end. Make sure to 
 
 ## Depolyed Viewing
 
-Deployed link: https://gator-blog-me.herokuapp.com/
+Deployed link: https://kawaikimono.github.io/Lesson-20-React-Profile/
 
 GitHub Link: https://github.com/Kawaikimono/Lesson-20-React-Profile
 
