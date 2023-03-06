@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Lesson-20-React-Profile/static/css/main.b2e957c2.css",
-    "main.js": "/Lesson-20-React-Profile/static/js/main.b7f8eb0e.js",
+    "main.js": "/Lesson-20-React-Profile/static/js/main.04efad4f.js",
     "static/media/resume.pdf": "/Lesson-20-React-Profile/static/media/resume.09bbd1ec37a058d7ce9f.pdf",
     "static/media/ProfilePic.jpg": "/Lesson-20-React-Profile/static/media/ProfilePic.c7ab3a60588e826217ce.jpg",
     "static/media/MovieProject.png": "/Lesson-20-React-Profile/static/media/MovieProject.1f2c2c633638f8568410.png",
     "static/media/Roomease.png": "/Lesson-20-React-Profile/static/media/Roomease.5eec3c3c5f799a5e9575.png",
     "index.html": "/Lesson-20-React-Profile/index.html",
     "main.b2e957c2.css.map": "/Lesson-20-React-Profile/static/css/main.b2e957c2.css.map",
-    "main.b7f8eb0e.js.map": "/Lesson-20-React-Profile/static/js/main.b7f8eb0e.js.map"
+    "main.04efad4f.js.map": "/Lesson-20-React-Profile/static/js/main.04efad4f.js.map"
   },
   "entrypoints": [
     "static/css/main.b2e957c2.css",
-    "static/js/main.b7f8eb0e.js"
+    "static/js/main.04efad4f.js"
   ]
 }
